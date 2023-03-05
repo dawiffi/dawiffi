@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dawiffi
-- 👀 I’m interested in C++, Python, HTML, CSS
-- 🌱 I’m currently learning C++, Python
+- 👀 I’m interested in C++, Python, HTML, CSS and others
+- 🌱 I’m currently learning C++, Python and Frontend
 - 📖 I'm an IT student at Polsko-Japońska Akademia Technik Komputerowych in Gdańsk, Poland
 - 💞️ I’m looking to collaborate on projects
 
