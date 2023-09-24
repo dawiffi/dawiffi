@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @dawiffi
-- 👀 I’m interested in C++, Python, HTML, CSS and others
+- 💼 I'm a Junior QA Tester at QLOC, Gdańsk
+- 👀 I’m interested in C++, Python, HTML, CSS, Java and others
 - 🌱 I’m currently learning C++, Python and Frontend
-- 📖 I'm an IT student at Polsko-Japońska Akademia Technik Komputerowych in Gdańsk, Poland
+- 📖 I'm an IT student at PJATK in Gdańsk, Poland
 - 💞️ I’m looking to collaborate on projects
 
 <!---
