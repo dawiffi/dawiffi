@@ -1,2 +1,2 @@
-Data Center Lab Technician at Solidigm, Gdańsk
+Data Center Engineer at Wirtualna Polska, Gdańsk
 CS student at PJATK Gdańsk
